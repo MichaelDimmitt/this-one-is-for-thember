@@ -18,3 +18,4 @@ Project Objectives:
 <br/>~7) Maybe another view where a guy is just walking in the rain.~
 7) Lets also mix in some phantom crash2, cat emoji pictures talking to people. (maybe no test needed) (maybe test the chat)
 8) And a map to move everyone around. (map should render ... stuff renders after map 👍)
+9) additionals to implement: sinon, ember-simpleauth, ember-powerselect, fontawesome, ember-ajax, ember-cli-pagination, ember-cli-mirage, moment, ember-circle-ci, lightable, notify.
